@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 120 120">
+  <!-- Wrench/Pipe icon in green -->
+  <g transform="translate(10, 10)">
+    <!-- Main pipe structure -->
+    <path d="M 25 20 Q 25 10 35 10 L 45 10 Q 55 10 55 20 L 55 30 Q 55 40 45 40 L 35 40 Q 25 40 25 30 Z" stroke="#6BA82C" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Left vertical pipe -->
+    <path d="M 15 35 L 15 50 Q 15 55 10 55 L 5 55" stroke="#6BA82C" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Top left wrench part -->
+    <path d="M 20 15 Q 15 10 10 15 Q 8 17 10 22 Q 15 20 20 25" stroke="#6BA82C" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Right vertical pipe -->
+    <path d="M 65 35 L 75 35 Q 80 35 85 30 L 90 25" stroke="#6BA82C" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Right elbow -->
+    <path d="M 65 40 L 70 50" stroke="#6BA82C" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Water drop -->
+    <path d="M 30 52 Q 28 56 30 60 Q 32 64 30 68 Q 30 70 28 70 Q 26 70 26 68 Q 24 64 26 60 Q 28 56 26 52" stroke="#6BA82C" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
